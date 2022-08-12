@@ -1,6 +1,6 @@
 {
-    "name": "my_portfilio_web_app",
-    "short_name": "my_portfilio_web_app",
+    "name": "my_website",
+    "short_name": "my_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
