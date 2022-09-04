@@ -1,11 +1,11 @@
 {
-    "name": "my_portfilio_web_app",
-    "short_name": "my_portfilio_web_app",
+    "name": "DevNejim_portfolio",
+    "short_name": "nejim_portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description":  "DevNejim Portfolio Website" ,
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
@@ -33,3 +33,5 @@
         }
     ]
 }
+
+
