@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d5e881b2990a2e5341121d24b473251d",
+  "assets/AssetManifest.json": "c4c8e7fd0ac7623ebeefc3cd5557e464",
 "assets/assets/fonts/segoesc.ttf": "5c452fb7a0f5751f4e94e9d84eb01154",
 "assets/assets/fonts/segoeui.ttf": "623c7118249e082fe87a78e08506cb4b",
 "assets/assets/fonts/segoeuib.ttf": "299556cecd6b730bce8230f529e837a1",
@@ -15,6 +15,8 @@ const RESOURCES = {
 "assets/assets/images/avatar.png": "de4c508f6cf4914447c542f5b35be7d3",
 "assets/assets/images/blank-mob.png": "a2a2099f68d57b8f7f4588c2c6b9c571",
 "assets/assets/images/blank-screen.png": "a5d1c77869f9193ecbdd0c7461fa6b62",
+"assets/assets/images/blank-screen2.png": "263d0984a4b108be7a0adf297bf238bf",
+"assets/assets/images/blank-screen3.png": "f9eceb1f0aa447d8296fde782842dfdf",
 "assets/assets/images/blue-section-background.png": "8f51c233822a8dc52e813b0601f5695b",
 "assets/assets/images/cit-app-1.png": "09d64a37c3fe59a9ce231be5d0fb7158",
 "assets/assets/images/cit-app-2.png": "a3d36cf860cda97c4db8f839be6d3d70",
@@ -79,9 +81,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "b210120928388dca72a6ab9a23c988d5",
 "icons/Icon-maskable-192.png": "d8d01320cfb28cce9311a5ec8b30b813",
 "icons/Icon-maskable-512.png": "b210120928388dca72a6ab9a23c988d5",
-"index.html": "2a23de96571f5ea65efdd3760069a6a5",
-"/": "2a23de96571f5ea65efdd3760069a6a5",
-"main.dart.js": "0fbb49f89574aa81ddd9574ffcf30c37",
+"index.html": "e60e07056588d9f70c5e4ed249fe7214",
+"/": "e60e07056588d9f70c5e4ed249fe7214",
+"main.dart.js": "20f474749179ad03d2b19579b910a1ff",
 "manifest.json": "1d560bdba0faba3d8f0170c9137f46ac",
 "version.json": "c8f979d408e51acd1ee06f6af9b9722c"
 };
